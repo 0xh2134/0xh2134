@@ -2,12 +2,12 @@
 Independent blockchain security researcher.
 
 # <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width="24">  Sherlock
-|  Contest  |  High risk  |  Medium risk  |  Security report  |  Leaderboard  |  Payout  |
+|  Contest  |  High Risk  |  Medium Risk  |  Security Report  |  Leaderboard  |  Payout  |
 |-----------|-------------|---------------|-------------------|---------------|----------|
 | - | - | - | - | - | - |
 
 
 # <img src="https://code4rena.com/images/c4-logo-icon.svg" width="24">  Code4rena
-|  Contest  |  High risk  |  Medium risk  |  Security report  |  Leaderboard  |  Payout  |
+|  Contest  |  High Risk  |  Medium Risk  |  Security Report  |  Leaderboard  |  Payout  |
 |-----------|-------------|---------------|-------------------|---------------|----------|
 | - | - | - | - | - | - |
