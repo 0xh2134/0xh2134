@@ -1,9 +1,15 @@
 # About h2134  <img src="https://avatars.githubusercontent.com/u/169348989?v=4" width="24">
 Independent blockchain security researcher.
 
+- **Unique Findings:** 2
+
+- **Total (H/M) Findings:** 15
+
+
 # <img src="https://docs.codehawks.com/~gitbook/image?url=https%3A%2F%2F3043220823-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F03192NVKR2mN0yJAWWw2%252Ficon%252FfjnVqtPZ9UDFJHZaVtHZ%252FCodeHawks%2520Mark%2520Color.png%3Falt%3Dmedia%26token%3D39546797-6ddf-4b2e-a80a-2ee4ba07ffb5&width=32&dpr=2&quality=100&sign=7cf13cb4&sv=1" width="24">  CodeHawks
 |  Contest  |  High Risk  |  Medium Risk  |  Low Risk  |  Leaderboard  |  Payout  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|:----------:|  
+| Zaros Part 1 | 2 Dups | 1 Solo + 1 Dup | 1 Dup | 5th | $ 3,866.17 |
 | Biconomy: Nexus | 1 Dup | 2 Dups | 1 Dup | 3rd | $ 1,328.78 |
 
 
