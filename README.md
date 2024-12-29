@@ -30,9 +30,9 @@ Independent blockchain security researcher.
 # <img src="https://code4rena.com/images/c4-logo-icon.svg" width="24">  Code4rena
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2024.06 | Vultisig | 2 Dups | 2 Dups | Top 10 |
+| 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
 
 # <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2024.10 | StakeUp | 4 Dups | 1 Dup | - |
+| 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
