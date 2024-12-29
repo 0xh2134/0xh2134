@@ -1,7 +1,7 @@
 # About h2134  <img src="https://avatars.githubusercontent.com/u/169348989?v=4" width="24">
 Independent blockchain security researcher.
 
-- **Unique Findings:** 4
+- **Solo Findings:** 4
 
 - **Total (H/M) Findings:** 56
 
