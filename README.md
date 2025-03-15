@@ -9,7 +9,7 @@ Independent blockchain security researcher.
 # <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2025.01 | [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2) | 5 | 5 | - |
+| 2025.01 | [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2) | 5 Dups | 5 Dups | - |
 | 2025.01 | [Benqi Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | - | - | Top 10 |
 | 2024.11 | [One World Project](https://codehawks.cyfrin.io/c/2024-11-one-world) | 1 Dup | 1 Dup | <img src="https://i.ibb.co/TTkqyw2/2nd.png" width="28"> |
 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | 8 Dups | 1 Dup | - |
