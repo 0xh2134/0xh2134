@@ -5,6 +5,12 @@ Independent blockchain security researcher.
 
 - **Total (H/M) Findings:** 66
 
+# <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
+|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
+|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
+| 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
+| 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
+
 
 # <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
@@ -30,10 +36,7 @@ Independent blockchain security researcher.
 | 2024.05 | [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | - | 1 Dup | <img src="https://i.ibb.co/h8zkpFn/3rd.png" width="28"> |
 
 
-# <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
-|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
-|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
+
 
 
 # <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
