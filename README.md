@@ -3,7 +3,20 @@ Independent blockchain security researcher.
 
 - **Solo Findings:** 5
 
-- **Total (H/M) Findings:** 75
+- **Total (H/M) Findings:** 116
+
+
+# <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
+|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
+|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
+| 2025.02 | [RAAC Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | 18 Dups | 23 Dups | - |
+| 2025.01 | [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2) | 5 Dups | 5 Dups | - |
+| 2025.01 | [Benqi Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | - | - | Top 10 |
+| 2024.11 | [One World Project](https://codehawks.cyfrin.io/c/2024-11-one-world) | 1 Dup | 1 Dup | **#2** |
+| 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | 8 Dups | 1 Dup | - |
+| 2024.07 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros) | 2 Dups | 1 Solo + 1 Dup | Top 5 |
+| 2024.07 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | 1 Dup | 2 Dups | **#3** |
+
 
 # <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
@@ -24,17 +37,6 @@ Independent blockchain security researcher.
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
 | 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
-
-
-# <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
-|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
-|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2025.01 | [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2) | 5 Dups | 5 Dups | - |
-| 2025.01 | [Benqi Ignite](https://codehawks.cyfrin.io/c/2025-01-benqi) | - | - | Top 10 |
-| 2024.11 | [One World Project](https://codehawks.cyfrin.io/c/2024-11-one-world) | 1 Dup | 1 Dup | **#2** |
-| 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | 8 Dups | 1 Dup | - |
-| 2024.07 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros) | 2 Dups | 1 Solo + 1 Dup | Top 5 |
-| 2024.07 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | 1 Dup | 2 Dups | **#3** |
 
 
 # <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
