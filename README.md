@@ -3,7 +3,7 @@ Independent blockchain security researcher.
 
 - **Solo Findings:** 5
 
-- **Total (H/M) Findings:** 116
+- **Total (H/M) Findings:** 126
 
 - **Projects Helped Secure:** 19
 
