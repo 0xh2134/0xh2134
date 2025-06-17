@@ -5,7 +5,7 @@ Independent blockchain security researcher.
 
 - **Total (H/M) Findings:** 126
 
-- **Projects Helped Secure:** 19
+- **Projects Helped Secure:** 20
 
 
 # <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
