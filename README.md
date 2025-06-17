@@ -5,6 +5,8 @@ Independent blockchain security researcher.
 
 - **Total (H/M) Findings:** 116
 
+- **Projects Helped Secure:** 19
+
 
 # <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
