@@ -8,6 +8,14 @@ Independent blockchain security researcher.
 - **Projects Helped Secure:** 19
 
 
+# <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
+|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
+|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
+| 2025.04 | [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | 2 Dups | 8 Dups | Top 5 |
+| 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
+| 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
+
+
 # <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
@@ -32,13 +40,6 @@ Independent blockchain security researcher.
 | 2024.06 | [Mellow Modular LRTs](https://audits.sherlock.xyz/contests/423) | - | 1 Dup | **#3** |
 | 2024.05 | [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376) | - | 1 Solo + 1 Dup | Top 5 |
 | 2024.05 | [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | - | 1 Dup | **#3** |
-
-
-# <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
-|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
-|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
-| 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
 
 
 # <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
