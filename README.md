@@ -11,6 +11,7 @@ Independent blockchain security researcher.
 # <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
+| 2025.05 | [Mystic](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8) | 2 Dups | 4 Dups | Top 10 |
 | 2025.04 | [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | 2 Dups | 8 Dups | Top 5 |
 | 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
 | 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
