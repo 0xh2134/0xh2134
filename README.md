@@ -1,11 +1,11 @@
 # About h2134  <img src="https://avatars.githubusercontent.com/u/169348989?v=4" width="24">
 Independent blockchain security researcher.
 
-- **Solo Findings:** 5
+- **Solo Findings:** 6
 
-- **Total (H/M) Findings:** 126
+- **Total (H/M) Findings:** 131
 
-- **Projects Helped Secure:** 20
+- **Projects Helped Secure:** 21
 
 
 # <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
