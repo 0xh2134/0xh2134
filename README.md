@@ -10,7 +10,7 @@ Independent blockchain security researcher.
 # <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2025.05 | [Notional Exponent](https://audits.sherlock.xyz/contests/1001) | - | 4 Dups | - |
+| 2025.07 | [Notional Exponent](https://audits.sherlock.xyz/contests/1001) | - | 4 Dups | - |
 | 2025.05 | [LEND](https://audits.sherlock.xyz/contests/908) | 11 Dups | 1 Solo + 3 Dups | Top 5 |
 | 2025.04 | [Burve](https://audits.sherlock.xyz/contests/858) | 2 Dups | 1 Solo + 2 Dups | **#2** |
 | 2024.11 | [Chiliz Chain System Contracts](https://audits.sherlock.xyz/contests/550) | 2 Dups | 2 Dups | Top 10 |
