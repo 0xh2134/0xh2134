@@ -2,7 +2,7 @@
 Independent blockchain security researcher.
 
 
-## Contest
+# Contest
 
 - **Solo Findings:** 7
 
@@ -10,7 +10,7 @@ Independent blockchain security researcher.
 
 - **Projects Helped Secure:** 23
 
-# <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
+## <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2025.07 | [Notional Exponent](https://audits.sherlock.xyz/contests/1001) | - | 4 Dups | - |
@@ -26,7 +26,7 @@ Independent blockchain security researcher.
 | 2024.05 | [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | - | 1 Dup | **#3** |
 
 
-# <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
+## <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2025.05 | [Mystic](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8) | 2 Dups | 4 Dups | Top 10 |
@@ -35,7 +35,7 @@ Independent blockchain security researcher.
 | 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
 
 
-# <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
+## <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2025.02 | [RAAC Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | 18 Dups | 23 Dups | - |
@@ -47,7 +47,7 @@ Independent blockchain security researcher.
 | 2024.07 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | 1 Dup | 2 Dups | **#3** |
 
 
-# <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
+## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
