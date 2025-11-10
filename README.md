@@ -1,16 +1,6 @@
 # About h2134  <img src="https://avatars.githubusercontent.com/u/169348989?v=4" width="24">
 Independent blockchain security researcher.
 
-# Team
-
-| Date | Provider | Project | Report | 
-|:-----------|:-------------:|:---------------:|:---------------:|
-| 2025.10 | [Pashov Audit Group](https://www.pashov.com/) | [Anthias](http://anthias.xyz) | - |
-| 2025.09 | [Pashov Audit Group](https://www.pashov.com/) | [Ouroboros](http://ouroboros.foundation) | - |
-| 2025.09 | [Pashov Audit Group](https://www.pashov.com/) | [Mustang](https://must.finance) | - |
-
-# Contest
-
 - **Solo Findings:** 7
 
 - **Total (H/M) Findings:** 152
