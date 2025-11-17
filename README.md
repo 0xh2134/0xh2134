@@ -1,5 +1,10 @@
-# About h2134  <img src="https://avatars.githubusercontent.com/u/169348989?v=4" width="24">
-Independent blockchain security researcher.
+# About h2134
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://discord.gg/uFWKbUeU"><img src="https://discord.com/assets/favicon.ico" alt="Discord" width="22"></a>
+  <a href="https://t.me/h2134_0"><img src="https://telegram.org/img/website_icon.svg" alt="Telegram" width="22"></a>
+  <a href="https://x.com/0xh2134"><img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X" width="22"></a>
+</div>
 
 # Team Audits
 
