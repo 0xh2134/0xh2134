@@ -16,9 +16,9 @@ Independent blockchain security researcher.
 
 # Contests
 
-- **Solo Findings:** 7
+- **Solo Findings:** 6
 
-- **Total (H/M) Findings:** 152
+- **Total (H/M) Findings:** 153
 
 - **Projects Helped Secure:** 24
 
