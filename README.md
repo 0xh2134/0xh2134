@@ -12,7 +12,7 @@
 
 |  Date  |  Project  |  Category  |  Report  |
 |:-----------|:-------------:|:---------------:|:---------------:|
-| 2025.11 | Hybux Staking | Staking | - |
+| 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
 | 2025.10 | Polyester | Lending & Borrowing | - |
 | 2025.10 | Anthias | DEX aggregation | - |
 | 2025.09 | Ouroboros | Lending & Borrowing | [link](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) |
