@@ -6,19 +6,6 @@
   <a href="https://x.com/0xh2134"><img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X" width="22"></a>
 </div>
 
-# Team Audits
-
-## <img src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" width="24">  Pashov
-
-|  Date  |  Project  |  Category  |  Report  |
-|:-----------|:-------------:|:---------------:|:---------------:|
-| 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
-| 2025.10 | Polyester | Lending & Borrowing | - |
-| 2025.10 | Anthias | DEX aggregation | - |
-| 2025.09 | Ouroboros | Lending & Borrowing | [link](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) |
-| 2025.09 | Mustang | Lending & Borrowing | - |
-
-
 # Contests
 
 - **Solo Findings:** 6
@@ -70,3 +57,15 @@
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
 | 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
 
+
+# Team Audits
+
+## <img src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" width="24">  Pashov
+
+|  Date  |  Project  |  Category  |  Report  |
+|:-----------|:-------------:|:---------------:|:---------------:|
+| 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
+| 2025.10 | Polyester | Lending & Borrowing | - |
+| 2025.10 | Anthias | DEX aggregation | - |
+| 2025.09 | Ouroboros | Lending & Borrowing | [link](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) |
+| 2025.09 | Mustang | Lending & Borrowing | - |
