@@ -10,9 +10,16 @@
 
 - **Solo Findings:** 6
 
-- **Total (H/M) Findings:** 153
+- **Total (H/M) Findings:** 157
 
-- **Projects Helped Secure:** 24
+- **Projects Helped Secure:** 25
+
+## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
+|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
+|:-----------|:-------------:|:---------------:|:---------------:|:----------:| 
+| 2024.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | 1 Dups | 3 Dups | **2nd** |
+| 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
+
 
 ## <img src="https://cantina.xyz/favicon.svg" width="24">  Cantina
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
@@ -50,12 +57,6 @@
 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | 8 Dups | 1 Dup | - |
 | 2024.07 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros) | 2 Dups | 1 Solo + 1 Dup | Top 5 |
 | 2024.07 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | 1 Dup | 2 Dups | **#3** |
-
-
-## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
-|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
-|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
 
 
 # Team Audits
