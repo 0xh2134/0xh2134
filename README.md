@@ -10,9 +10,25 @@
 
 - **Solo Findings:** 6
 
-- **Total (H/M) Findings:** 157
+- **Total (H/M) Findings:** 162
 
-- **Projects Helped Secure:** 25
+- **Projects Helped Secure:** 26
+
+## <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
+|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
+|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
+| 2025.11 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | 1 Dups | 4 Dups | Top 10 |
+| 2025.07 | [Notional Exponent](https://audits.sherlock.xyz/contests/1001) | - | 4 Dups | - |
+| 2025.05 | [LEND](https://audits.sherlock.xyz/contests/908) | 11 Dups | 1 Solo + 3 Dups | Top 5 |
+| 2025.04 | [Burve](https://audits.sherlock.xyz/contests/858) | 2 Dups | 1 Solo + 2 Dups | **#2** |
+| 2024.11 | [Chiliz Chain System Contracts](https://audits.sherlock.xyz/contests/550) | 2 Dups | 2 Dups | Top 10 |
+| 2024.11 | [vVv Launchpad](https://audits.sherlock.xyz/contests/647) | 1 Dup | - | **#1** |
+| 2024.10 | [predict.fun lending market](https://audits.sherlock.xyz/contests/561) | - | 1 Dup | Top 5 |
+| 2024.09 | [Flayer](https://audits.sherlock.xyz/contests/468) | 8 Dups | 1 Solo + 6 Dups | Top 10 |
+| 2024.08 | [Sentiment V2](https://audits.sherlock.xyz/contests/349) | - | 1 Solo + 3 Dups | Top 10 |
+| 2024.06 | [Mellow Modular LRTs](https://audits.sherlock.xyz/contests/423) | - | 1 Dup | **#3** |
+| 2024.05 | [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376) | - | 1 Solo + 1 Dup | Top 5 |
+| 2024.05 | [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | - | 1 Dup | **#3** |
 
 ## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
@@ -29,22 +45,6 @@
 | 2025.04 | [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | 2 Dups | 8 Dups | Top 5 |
 | 2025.02 | [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | 2 Dups | 2 Dups | Top 10 |
 | 2024.10 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4 Dups | 1 Dup | - |
-
-
-## <img src="https://audits.sherlock.xyz/favicon.ico" width="24">  Sherlock
-|  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
-|:-----------|:-------------:|:---------------:|:---------------:|:----------:|  
-| 2025.07 | [Notional Exponent](https://audits.sherlock.xyz/contests/1001) | - | 4 Dups | - |
-| 2025.05 | [LEND](https://audits.sherlock.xyz/contests/908) | 11 Dups | 1 Solo + 3 Dups | Top 5 |
-| 2025.04 | [Burve](https://audits.sherlock.xyz/contests/858) | 2 Dups | 1 Solo + 2 Dups | **#2** |
-| 2024.11 | [Chiliz Chain System Contracts](https://audits.sherlock.xyz/contests/550) | 2 Dups | 2 Dups | Top 10 |
-| 2024.11 | [vVv Launchpad](https://audits.sherlock.xyz/contests/647) | 1 Dup | - | **#1** |
-| 2024.10 | [predict.fun lending market](https://audits.sherlock.xyz/contests/561) | - | 1 Dup | Top 5 |
-| 2024.09 | [Flayer](https://audits.sherlock.xyz/contests/468) | 8 Dups | 1 Solo + 6 Dups | Top 10 |
-| 2024.08 | [Sentiment V2](https://audits.sherlock.xyz/contests/349) | - | 1 Solo + 3 Dups | Top 10 |
-| 2024.06 | [Mellow Modular LRTs](https://audits.sherlock.xyz/contests/423) | - | 1 Dup | **#3** |
-| 2024.05 | [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376) | - | 1 Solo + 1 Dup | Top 5 |
-| 2024.05 | [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330) | - | 1 Dup | **#3** |
 
 
 ## <img src="https://codehawks.cyfrin.io/favicon.ico" width="24">  CodeHawks
