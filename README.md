@@ -65,6 +65,7 @@
 
 |  Date  |  Project  |  Category  |  Report  |
 |:-----------|:-------------:|:---------------:|:---------------:|
+| 2026.01 | Venus Periphery | Swapping | - |
 | 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
 | 2025.10 | Polyester | Lending & Borrowing | - |
 | 2025.10 | Anthias | DEX aggregation | - |
