@@ -18,7 +18,7 @@
 ## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
 |  Date  |  Project  |  High Risk  |  Medium Risk  |  Rank  |
 |:-----------|:-------------:|:---------------:|:---------------:|:----------:| 
-| 2025.11 | [Sukkufi](https://code4rena.com/audits/2025-11-sukukfi) | 1 Dups | 2 Dups | **#3** |
+| 2025.11 | [Sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | 1 Dups | 2 Dups | **#3** |
 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | 1 Dups | 3 Dups | **#2** |
 | 2024.06 | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | 2 Dups | 2 Dups | Top 10 |
 
