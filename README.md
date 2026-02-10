@@ -10,9 +10,9 @@
 
 - **Solo Findings:** 6
 
-- **Total (H/M) Findings:** 162
+- **Total (H/M) Findings:** 165
 
-- **Projects Helped Secure:** 26
+- **Projects Helped Secure:** 27
 
 
 ## <img src="https://code4rena.com/favicon.ico" width="24">  Code4rena
