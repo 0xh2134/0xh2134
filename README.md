@@ -68,6 +68,7 @@
 
 |  Date  |  Project  |  Category  |  Report  |
 |:-----------|:-------------:|:---------------:|:---------------:|
+| 2026.3 | veRAAC | Token | - |
 | 2026.02 | OlympusX | Staking | - |
 | 2026.02 | RAAC 2 | Token | - |
 | 2026.01 | Venus Periphery | Swapping | - |
