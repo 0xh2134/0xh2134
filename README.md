@@ -68,6 +68,8 @@
 
 |  Date  |  Project  |  Category  |  Report  |
 |:-----------|:-------------:|:---------------:|:---------------:|
+| 2026.4 | BNB Chain BEP-677 | Token | - |
+| 2026.4 | Paxos Boring Vault | Vault | - |
 | 2026.3 | veRAAC | Token | - |
 | 2026.02 | OlympusX | Staking | - |
 | 2026.02 | RAAC 2 | Token | - |
