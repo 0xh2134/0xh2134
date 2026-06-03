@@ -6,6 +6,26 @@
   <a href="https://x.com/0xh2134"><img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X" width="22"></a>
 </div>
 
+# Team Audits
+
+## <img src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" width="24">  Pashov
+
+|  Date  |  Project  |  Category  |  Report  |
+|:-----------|:-------------:|:---------------:|:---------------:|
+| 2026.5 | OpenLabs Vault | Vault | - |
+| 2026.4 | BNB Chain BEP-677 | Token | - |
+| 2026.4 | Paxos Boring Vault | Vault | - |
+| 2026.3 | veRAAC | Token | - |
+| 2026.02 | OlympusX | Staking | - |
+| 2026.02 | RAAC 2 | Token | - |
+| 2026.01 | Venus Periphery | Swapping | - |
+| 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
+| 2025.10 | Polyester | Lending & Borrowing | - |
+| 2025.10 | Anthias | DEX aggregation | - |
+| 2025.09 | Ouroboros | Lending & Borrowing | [link](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) |
+| 2025.09 | Mustang | Lending & Borrowing | - |
+
+
 # Contests
 
 - **Solo Findings:** 6
@@ -60,22 +80,3 @@
 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | 8 Dups | 1 Dup | - |
 | 2024.07 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros) | 2 Dups | 1 Solo + 1 Dup | Top 5 |
 | 2024.07 | [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy) | 1 Dup | 2 Dups | **#3** |
-
-
-# Team Audits
-
-## <img src="https://avatars.githubusercontent.com/u/159713272?s=200&v=4" width="24">  Pashov
-
-|  Date  |  Project  |  Category  |  Report  |
-|:-----------|:-------------:|:---------------:|:---------------:|
-| 2026.4 | BNB Chain BEP-677 | Token | - |
-| 2026.4 | Paxos Boring Vault | Vault | - |
-| 2026.3 | veRAAC | Token | - |
-| 2026.02 | OlympusX | Staking | - |
-| 2026.02 | RAAC 2 | Token | - |
-| 2026.01 | Venus Periphery | Swapping | - |
-| 2025.11 | Hybux Staking | Staking | [link](https://github.com/pashov/audits/blob/master/team/md/HYBUX-security-review_2025-11-11.md) |
-| 2025.10 | Polyester | Lending & Borrowing | - |
-| 2025.10 | Anthias | DEX aggregation | - |
-| 2025.09 | Ouroboros | Lending & Borrowing | [link](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) |
-| 2025.09 | Mustang | Lending & Borrowing | - |
